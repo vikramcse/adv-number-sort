@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/vikramcse/adv-number-sort.git"
   },
-  "keywords": [],
+  "keywords": ["array", "sort", "numbers", "advanced", "ascending", "descending", "order"],
   "author": "Vikram <vikramcse.10@gmail.com>",
   "license": "ISC",
   "bugs": {
